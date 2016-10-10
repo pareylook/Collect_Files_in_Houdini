@@ -3,7 +3,7 @@
 Скрипт который позволяет делать коллекты моделей и текстур в одну папку.
 
 ### Установка ###
-1. Скопировать файл **collectFiles.py** в директорию <Houdini_User_Pref_Dir>\scrips\python Если директории нет, нужно создать её.
+1. Скопировать файл **collectFiles.py** в директорию <Houdini_User_Pref_Dir>\scripts\python Если директории нет, нужно создать её.
 Пример: C:\Users\YourName\Documents\houdini15.5\scripts\python
 
 2. Скопировать файл **collect_Files.pypanel** в директорию <Houdini_User_Pref_Dir>\python_panels
