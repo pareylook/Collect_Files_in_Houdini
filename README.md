@@ -1,6 +1,7 @@
-# Houdini-Node-Renamer
+# Colletct Files Houdini
 
 A script collect your files in one folder.
+Video Preview - https://www.youtube.com/watch?v=LmZjtAebBto
 
 ### Install ###
 
