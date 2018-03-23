@@ -1,17 +1,17 @@
-# Collect_Files_in_Houdini
+# Houdini-Node-Renamer
 
-Скрипт который позволяет делать коллекты моделей и текстур в одну папку.
+A script collect your files in one folder.
 
-### Установка ###
-1. Скопировать файл **collectFiles.py** в директорию <Houdini_User_Pref_Dir>\scripts\python Если директории нет, нужно создать её.
-Пример: C:\Users\YourName\Documents\houdini15.5\scripts\python
+### Install ###
 
-2. Скопировать файл **collect_Files.pypanel** в директорию <Houdini_User_Pref_Dir>\python_panels
-Пример: C:\Users\YourName\Documents\houdini15.5\python_panels
+1.Select in Python panel **New interface**  
+![Image](https://2.downloader.disk.yandex.ru/preview/287ec45c7415ea97e41fb39a3bb1800279f7f6783ca4761dcddefa62c8140a7b/inf/I6L1S6WWyMvJpYG0_Fl3FInNn3tjHRbvuf3k1GLmQ5j3gOz8cv-8vdrQsNTaN9lKV5zoEB6l8YLAuiBMM0ryYg%3D%3D?uid=0&filename=2018-02-14_09-19-24.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&size=XXL&crop=0)  
 
-3. Перезапустить Houdini
+2.Past Script Here  
+![Image](https://downloader.disk.yandex.ru/preview/f7d5e3772d1d266464fdafe7ae7aac6c9572a3d9a26e6938ae31a6f6ad524787/inf/I6L1S6WWyMvJpYG0_Fl3FFmID1w1HYBHdCDQ-Xs0XFjDfsr4Mg03Pn7NEwlY4biTs2jinn35SD3SKRnPzP0aEQ%3D%3D?uid=0&filename=2018-03-23_09-22-11.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&size=2048x2048)
 
-4. Активировать Python Panel в интерфейсе и выбрать скрипт из списка (https://yadi.sk/i/A8hSCudSwa4h9)
+3.Select in Python panel **Edit Toolbar Menu**  
+![Image](https://4.downloader.disk.yandex.ru/preview/d87997cb427024f8195c16bb47f1999db8a677bee107971e0dc76c8c3fb62b3f/inf/I6L1S6WWyMvJpYG0_Fl3FJtt_ukZp2f3sMOMAyWOYWoAdBXIdq4eoL5D8iEFA4EJKyPU4ZXzGLQ5KEwS4RyuEA%3D%3D?uid=0&filename=2018-02-14_09-21-33.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&size=XXL&crop=0)  
 
-### Видео с описанием работы ###
-https://www.youtube.com/watch?v=LmZjtAebBto
+4.Move Your New interface into right panel  
+![Image](https://downloader.disk.yandex.ru/preview/ba99434b3cfe7592c6ceabd14ccb50027fbb112058e5c6a44f3c05b7eabdd75c/inf/I6L1S6WWyMvJpYG0_Fl3FB0IkgQAYyCV6yPYPXhsLwlwHVxOO3KvD5-G7382PrY6w9Ggo624Vb4ZBK1XWJcdBg%3D%3D?uid=0&filename=2018-03-23_09-23-05.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&size=2048x2048)
